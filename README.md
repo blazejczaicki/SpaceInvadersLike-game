@@ -6,3 +6,6 @@ Game was created as term programming project. This application allowed me to lea
 
 ## Usage
 Player can choose two simple scenarios in which need to destroy approaching waves of enemy ships.
+
+## Screenshot
+![alt text](https://github.com/blazejczaicki/SpaceInvadersLike-game/blob/master/Screenshots/11.PNG)
